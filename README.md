@@ -19,4 +19,4 @@ NodeMCU along with MFRC522 Scanner is used to scan ID Cards and generate Attenda
 - Project is ready to use!!
 
 ### Video Demo 
-comming soon
+![](https://github.com/Dharm3438/RFID_CLG_Attendance_System/blob/main/RFID_Final.gif?raw=true)
